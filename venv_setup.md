@@ -1,15 +1,15 @@
 # *`THREE WAYS TO SETUP A VIRTUALENV`*
-# `1.` `(windows only)`
+# `1. Windows`
 - open `microsoft store` (or even `google`) and easily `search` for `python` and the first thing you see is the latest version of python to install on your computer
 - run   `python get-pip.py`   on your command line 
 - use   `pip install virtualenv`   to install virtual environment essentials
 - now to get started just run `virtualenv venv` to create a virtual environment
 - after that you can use `.\venv\scripts\activate.bat` 
 
-# `2.` `(Mac)`
+# `2. Mac`
 - 
 
-# `3.` `(Linux)`
+# `3. Linux`
 - use `sudo apt-get install python python3-pip` to install pip and 
 
 # `NOTICE BEFORE GET STARTED`
