@@ -1,4 +1,4 @@
-# `NAME OF PACKAGES`
+# `NAME OF EXTENSIONS`
 - *`Pylance`*
 > auto imports, hilighting, etc...
 - *`Python`* 
