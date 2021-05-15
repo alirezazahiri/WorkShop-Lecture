@@ -1,6 +1,4 @@
 # `NAME OF EXTENSIONS`
-- *`Pylance`*
-> auto imports, hilighting, etc...
 - *`Python`* 
 > Python interpretor
 - *`python docstring Generator`*
