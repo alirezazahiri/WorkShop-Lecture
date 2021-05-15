@@ -1,4 +1,4 @@
-# `GET STARTED` -> *`5 mins`*
+# `GET STARTED` -> *`this will take some serious time`* 🤓
 ## *`How to setup a python environment ?`*
 
 > creating a [virtual environment](./venv_setup.md)
@@ -7,7 +7,7 @@
 
 > using [VsCode](https://code.visualstudio.com/download) which needs you to install a couple of things to get started
 
->* *in this lecture i [walk you through](essentials/walkthrough.md) the levels on how to code python in vscode*
+- > *in this lecture i [walk you through](essentials/walkthrough.md) the levels on how to code python in vscode and after that we are ready for our next steps*
 
 # `What To Do`
 >*  getting started with our first line of code -> *`Hello World!`*
