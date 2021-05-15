@@ -1,7 +1,7 @@
 # *`SETUP GUIDE`*
 # `1. Windows`
 - open `microsoft store` (or even `google`) and easily `search` for `python` and the first thing you see is the latest version of python to install on your computer
-- run `curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py`
+- run `curl` [https://bootstrap.pypa.io/get-pip.py](https://bootstrap.pypa.io/get-pip.py) `-o get-pip.py`
 - run   `python get-pip.py`   on your command line 
 - use   `pip install virtualenv`   to install virtual environment essentials
 - now to get started just run `virtualenv venv` to create a virtual environment
