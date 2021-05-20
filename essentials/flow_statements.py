@@ -18,11 +18,8 @@ elif number % 2 != 0:
     print('is odd')
 
 # TYPE 3:
-number = 23 % 2 == 0 
-if number:
-    print('is even')
-else:
-    print('is odd')
+number = 23 
+print('is even') if number % 2 == 0 else print('is odd')
 
 #TODO: 2. multiple if, elif and else 
 #       """
@@ -50,5 +47,3 @@ elif number == 2:
     print("it's a 2")
 else:
     print("it's a 1")
-
-# Done !
