@@ -13,6 +13,9 @@ string[0] = string[0].upper()
 for i in range(1, len(string)):
     string[i] = string[i].lower()
 
+# ['a', 'l', 'i']
+# 'a'+'l'+'i' -> 'ali'
+
 print(''.join(string))
 
 # or do it more like a python programmer

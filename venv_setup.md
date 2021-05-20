@@ -12,6 +12,7 @@
 - the installation progress is so simple 
 - run `curl` [https://bootstrap.pypa.io/get-pip.py](https://bootstrap.pypa.io/get-pip.py) `-o get-pip.py` and `python3 get-pip.py` on your command line 
 - as always `pip install virtualenv`
+- `virtualenv venv`
 - run `./venv/bin/activate`
 # `3. Linux`
 - use `sudo apt-get install python` to get the latest version of python

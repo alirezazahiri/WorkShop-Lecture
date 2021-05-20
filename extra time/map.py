@@ -4,3 +4,4 @@
 #TODO: SHOW THE EVEN NUMBERS ONLY
 #TODO: SHOW THE PRIME NUMBERS ONLY
 
+numbers = list(map(int, input().split()))

@@ -9,3 +9,5 @@
 > auto indents each line you are going to code in it 
 - *`python test explorer for vscode`*
 > makes things easier for you to test your code 
+- *`tabnine`*
+> AI based intellisence

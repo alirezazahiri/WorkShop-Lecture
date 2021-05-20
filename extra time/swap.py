@@ -6,4 +6,11 @@
 
 # fix the error ;) 
 
+def bubbleSort(numbers: list) -> None:
+    pass
 
+numbers = list(map(int, input().split()))
+bubbleSort(numbers)
+print(*numbers)
+
+  
