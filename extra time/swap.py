@@ -4,13 +4,15 @@
 
 # print it to the console
 
-# fix the error ;) 
-
 def bubbleSort(numbers: list) -> None:
-    pass
+    
+    for i in range(len(numbers)):
+        for j in range(i, len(numbers)):
+            if numbers[i] > numbers[j]:
+                numbers[i], numbers[j] = numbers[j], numbers[i]
 
-numbers = list(map(int, input().split()))
+numbers = [int(x) for x in input().split()]
 bubbleSort(numbers)
-print(*numbers)
+print(' '.join([str(x) for x in numbers]))
 
   

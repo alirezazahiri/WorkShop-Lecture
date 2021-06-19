@@ -6,26 +6,27 @@
 # TYPE 1:
 number = 21
 if number % 2 == 0:
-    print('is even')
+    print(f'{number} is even')
 if number % 2 != 0:
-    print('is odd')
+    print(f'{number} is odd')
 
 # TYPE 2:
 number = 22
 if number % 2 == 0:
-    print('is even')
+    print(f'{number} is even')
 elif number % 2 != 0:
-    print('is odd')
+    print(f'{number} is odd')
 
 # TYPE 3:
 number = 23 
-print('is even') if number % 2 == 0 else print('is odd')
+print(f'{number} is even') if number % 2 == 0 else print(f'{number} is odd')
 
 #TODO: 2. multiple if, elif and else 
 #       """
 #       get a number in range of 1 to 10 guess what number is it 
 #       without using any algorithm and no loops because we don't know about anything but flow statements
 #       """
+
 number = 9
 if number == 10:
     print("it's a 10")
